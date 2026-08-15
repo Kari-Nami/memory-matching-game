@@ -1,0 +1,21 @@
+.memory-card {
+    border-radius: 1rem;
+    width: 8rem;
+    height: 8rem;
+    margin: 1rem;
+
+    text-align: center;
+    align-content: center;
+
+    border: black 1px solid;
+
+}
+.memory-card:hover {
+    box-shadow: 0.3rem 0.3rem 0 0 rgba(0,0,0,20%);
+}
+
+.game-area {
+    display: grid;
+    grid-template-columns: repeat(5, auto);
+    justify-items: center;
+}
