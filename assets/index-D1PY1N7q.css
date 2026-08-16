@@ -1,0 +1,1 @@
+.memory-card{text-align:center;border:1px solid #000;border-radius:1rem;align-content:center;width:8rem;height:8rem;margin:1rem}.memory-card:hover{box-shadow:.3rem .3rem #0003}.memory-card.open{border:1px solid #00f}.game-area{grid-template-columns:repeat(5,auto);justify-items:center;display:grid}
